@@ -12,3 +12,6 @@ This is a Flutter-based shopping application that displays products and hot offe
 - **Biometric Authentication** Uses fingerprint or face recognition to access the profile.
 
 - **User Profile** Displays user information with an avatar.
+
+## Screens 
+<img src="[image.jpg](https://github.com/user-attachments/assets/b3b2c02b-f197-47f4-92a8-4770e6574944)" width="300" />
